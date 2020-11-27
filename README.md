@@ -55,6 +55,7 @@ The two fundamental ingredients for conducting the investigation are: 1) large-s
 Below, you can find the milestones and break-up and assignment of tasks required for the project:
 
 ***Milestone 1: Data extraction, cleaning and managing into a DataFrame***
+
 	* downloading the datasets **(by Maryam)**
 	
 	* extracting the data from the formatted file and reading it into a DataFrame **(by Maryam)**
@@ -65,6 +66,7 @@ The resulting DataFrame is shared with **Ghazaleh** at the current stage.
 
 
 ***Milestone 2: Graph creation, triad extraction, predictive model evaluation***
+
 	* building the graph using the networkx library **(by Ghazaleh)**
 	
 	* developing ideas for the analysis needed in the next steps **(by Ghazaleh and Maryam)**
@@ -79,10 +81,12 @@ The resulting graph and the code are shared with **Maryam** at the current stage
 
 
 ***Milestone 3: Paper’s result replication***
+
 	* replicating the **table 3** in the **signed network paper (by Maryam and Ghazaleh)**
 
 
 ***Milestone 4: Detailed analysis and answering the questions***
+
 	* analysis of the findings to verify the model robustness in guaranteeing trade success **(by Ghazaleh)**
 	
 	* investigating the effects of trust level weights on guaranteeing the revenues **(by Ghazaleh)**
@@ -91,6 +95,7 @@ The resulting graph and the code are shared with **Maryam** at the current stage
 	
 	
 ***Milestone 5: Report***
+
 	* preparing the report **(by Maryam and Ghazaleh)**
 	
 	* preparing the short video **(by Maryam and Ghazaleh)**
