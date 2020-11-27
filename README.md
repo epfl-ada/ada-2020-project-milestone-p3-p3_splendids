@@ -56,7 +56,9 @@ Below, you can find the milestones and break-up and assignment of tasks required
 
 ***Milestone 1: Data extraction, cleaning and managing into a DataFrame***
 	* downloading the datasets **(by Maryam)**
+	
 	* extracting the data from the formatted file and reading it into a DataFrame **(by Maryam)**
+	
 	* cleaning the data and removing the invalid data **(by Maryam)**
 
 The resulting DataFrame is shared with **Ghazaleh** at the current stage.
@@ -64,9 +66,13 @@ The resulting DataFrame is shared with **Ghazaleh** at the current stage.
 
 ***Milestone 2: Graph creation, triad extraction, predictive model evaluation***
 	* building the graph using the networkx library **(by Ghazaleh)**
+	
 	* developing ideas for the analysis needed in the next steps **(by Ghazaleh and Maryam)**
+	
 	* analyzing the graph and extracting its features **(by Ghazaleh)**
+	
 	* extracting the triads and analyzing them **(by Ghazaleh)**
+	
 	* creating a randomly signed model to control its over- and under- presentation of various types of triads **(by Ghazaleh)**
 
 The resulting graph and the code are shared with **Maryam** at the current stage.
@@ -78,12 +84,15 @@ The resulting graph and the code are shared with **Maryam** at the current stage
 
 ***Milestone 4: Detailed analysis and answering the questions***
 	* analysis of the findings to verify the model robustness in guaranteeing trade success **(by Ghazaleh)**
+	
 	* investigating the effects of trust level weights on guaranteeing the revenues **(by Ghazaleh)**
+	
 	* investigating a few cases of weight-based grouping for their effect on the model improvement **(by Maryam)**
 	
 	
 ***Milestone 5: Report***
 	* preparing the report **(by Maryam and Ghazaleh)**
+	
 	* preparing the short video **(by Maryam and Ghazaleh)**
 
 
