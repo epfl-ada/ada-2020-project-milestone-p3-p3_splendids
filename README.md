@@ -82,22 +82,22 @@ The resulting graph and the code are shared with **Maryam** at the current stage
 
 ***Milestone 3: Paper’s result replication***
 
-	* replicating the **table 3** in the **signed network paper (by Maryam and Ghazaleh)**
+1) replicating the **table 3** in the **signed network paper (by Maryam and Ghazaleh)**
 
 
 ***Milestone 4: Detailed analysis and answering the questions***
 
-	* analysis of the findings to verify the model robustness in guaranteeing trade success **(by Ghazaleh)**
+1) analysis of the findings to verify the model robustness in guaranteeing trade success **(by Ghazaleh)**
 	
-	* investigating the effects of trust level weights on guaranteeing the revenues **(by Ghazaleh)**
+2) investigating the effects of trust level weights on guaranteeing the revenues **(by Ghazaleh)**
 	
-	* investigating a few cases of weight-based grouping for their effect on the model improvement **(by Maryam)**
+3) investigating a few cases of weight-based grouping for their effect on the model improvement **(by Maryam)**
 	
 	
 ***Milestone 5: Report***
 
-	* preparing the report **(by Maryam and Ghazaleh)**
+1) preparing the report **(by Maryam and Ghazaleh)**
 	
-	* preparing the short video **(by Maryam and Ghazaleh)**
+2) preparing the short video **(by Maryam and Ghazaleh)**
 
 
