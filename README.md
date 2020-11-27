@@ -67,15 +67,15 @@ The resulting DataFrame is shared with **Ghazaleh** at the current stage.
 
 ***Milestone 2: Graph creation, triad extraction, predictive model evaluation***
 
-	* building the graph using the networkx library **(by Ghazaleh)**
-	
-	* developing ideas for the analysis needed in the next steps **(by Ghazaleh and Maryam)**
-	
-	* analyzing the graph and extracting its features **(by Ghazaleh)**
-	
-	* extracting the triads and analyzing them **(by Ghazaleh)**
-	
-	* creating a randomly signed model to control its over- and under- presentation of various types of triads **(by Ghazaleh)**
+1) building the graph using the networkx library **(by Ghazaleh)**
+
+2) developing ideas for the analysis needed in the next steps **(by Ghazaleh and Maryam)**
+
+3) analyzing the graph and extracting its features **(by Ghazaleh)**
+
+4) extracting the triads and analyzing them **(by Ghazaleh)**
+
+5) creating a randomly signed model to control its over- and under- presentation of various types of triads **(by Ghazaleh)**
 
 The resulting graph and the code are shared with **Maryam** at the current stage.
 
