@@ -44,4 +44,46 @@ The two fundamental ingredients for conducting the investigation are: 1) large-s
 ***Undirected network analysis:*** The occurrence and frequency of +++, +--, ++-, and --- triads are calculated in both existing and the randomly signed data. Also, a surprise value is provided, representing the deviation of the actual frequency from that of the random-shuffling model.
 
 ***Result interpretation:*** The goal is to maximize the number of successful trades in the platform to maximize the commissioning fees! This is achieved via supporting trustworthy users and limiting un-trustworthy ones! Furthermore, to keep the trustworthy users happy, the suggestion algorithm of a trade shall never propose an un-trustworthy person for a trade to trustworthy ones. The over- and under- presentation in the network model for certain types of extracted triads are interpreted as risk or value factor for the platform. Finally, the effects of trust level are also investigated both on the robustness and revenue guarantee of the model.
+## 6.	Proposed timeline
+***Week1:*** downloading the datasets; extracting the data from the formatted file and reading it into a DataFrame; cleaning the data and removing the invalid data (if exists); building the graph using the **networkx** library; developing ideas for the analysis needed in the next steps
+
+***Week2:*** analyzing the graph and extracting its features (number of nodes, edges, ratios of positive and negative edges); extracting the triads and analyzing them; creating a randomly signed model to control its over- and under- presentation of various types of triads; replicating the table 3 in signed network paper
+
+***Week3:*** analysis of the findings to verify the model robustness in guaranteeing trade success; investigating the effects of trust level weights on guaranteeing the revenues; investigating a few cases of weight-based grouping for their effect on the model improvement; preparing the report and short video
+
+## 7.	Organization within the team
+Below, you can find the milestones and break-up and assignment of tasks required for the project:
+
+***Milestone 1: Data extraction, cleaning and managing into a DataFrame***
+	* downloading the datasets **(by Maryam)**
+	* extracting the data from the formatted file and reading it into a DataFrame **(by Maryam)**
+	* cleaning the data and removing the invalid data **(by Maryam)**
+
+The resulting DataFrame is shared with **Ghazaleh** at the current stage.
+
+
+***Milestone 2: Graph creation, triad extraction, predictive model evaluation***
+	* building the graph using the networkx library **(by Ghazaleh)**
+	* developing ideas for the analysis needed in the next steps **(by Ghazaleh and Maryam)**
+	* analyzing the graph and extracting its features **(by Ghazaleh)**
+	* extracting the triads and analyzing them **(by Ghazaleh)**
+	* creating a randomly signed model to control its over- and under- presentation of various types of triads **(by Ghazaleh)**
+
+The resulting graph and the code are shared with **Maryam** at the current stage.
+
+
+***Milestone 3: Paper’s result replication***
+	* replicating the **table 3** in the **signed network paper (by Maryam and Ghazaleh)**
+
+
+***Milestone 4: Detailed analysis and answering the questions***
+	* analysis of the findings to verify the model robustness in guaranteeing trade success **(by Ghazaleh)**
+	* investigating the effects of trust level weights on guaranteeing the revenues **(by Ghazaleh)**
+	* investigating a few cases of weight-based grouping for their effect on the model improvement **(by Maryam)**
+	
+	
+***Milestone 5: Report***
+	* preparing the report **(by Maryam and Ghazaleh)**
+	* preparing the short video **(by Maryam and Ghazaleh)**
+
 
