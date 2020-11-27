@@ -32,5 +32,16 @@ As a result, we’re trying to answer the following questions:
 	* RATING: the source's rating for the target, ranging from -10 to +10 in steps of 1
 	* TIME: the time of the rating, measured as seconds since Epoch. 
 
+## 5.	Methods
+The two fundamental ingredients for conducting the investigation are: 1) large-scale datasets of signed review/relationship records between the Bitcoin traders of a platform, and 2) theories based on which the relationships within networks could be interpreted and forecasted
 
+***Platforms to investigate:*** Bitcoin OTC and Bitcoin Alpha. Both of the datasets on the platform contain the data of who-trusts-whom to trade. Levels of trust are identified using a range of negative to positive integers.
+
+***Theories for interpretation:*** balance theory which prefers prevalent cases of three mutual friends or two friends with a common enemy
+
+***Analysis scenarios:*** undirected networks (directions of the links are not taken into account – for balance theory implementation) – It should be noted that networkx library can only count the triads in a directed graph! As a result, a directed graph shall be made in the python code while the rest of the tasks can be formed using the undirected graph theorems.
+
+***Undirected network analysis:*** The occurrence and frequency of +++, +--, ++-, and --- triads are calculated in both existing and the randomly signed data. Also, a surprise value is provided, representing the deviation of the actual frequency from that of the random-shuffling model.
+
+***Result interpretation:*** The goal is to maximize the number of successful trades in the platform to maximize the commissioning fees! This is achieved via supporting trustworthy users and limiting un-trustworthy ones! Furthermore, to keep the trustworthy users happy, the suggestion algorithm of a trade shall never propose an un-trustworthy person for a trade to trustworthy ones. The over- and under- presentation in the network model for certain types of extracted triads are interpreted as risk or value factor for the platform. Finally, the effects of trust level are also investigated both on the robustness and revenue guarantee of the model.
 
