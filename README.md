@@ -17,3 +17,11 @@ As a result, we’re trying to answer the following questions:
 5) Is this over- or under- representing more towards the conservative approach (guaranteeing good experiences) or unconservative approach (causing bad experiences for trustable users)?
 6) Using the weights presented in the datasets, does it improve the model accuracy to group the edges by (strongly positive, neutral, and strongly negative) and form the triads based on this new grouping method?
 7) Does this new grouping method help guaranteeing good experiences?
+
+## 4.	Proposed dataset
+
+1)	"soc-sign-bitcoin-otc " dataset from the Stanford Large Network Dataset Collection-- This dataset lets us know who-trusts-whom to trade using Bitcoin on a platform called Bitcoin OTC. Members of Bitcoin OTC rate other members in a scale of -10 (total distrust) to +10 (total trust) in steps of 1.
+	* SOURCE: node id of source, i.e., rater
+	* TARGET: node id of target, i.e., ratee
+	* RATING: the source's rating for the target, ranging from -10 to +10 in steps of 1
+	* TIME: the time of the rating, measured as seconds since Epoch
