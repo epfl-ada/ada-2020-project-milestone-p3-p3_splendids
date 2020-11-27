@@ -56,11 +56,11 @@ Below, you can find the milestones and break-up and assignment of tasks required
 
 ***Milestone 1: Data extraction, cleaning and managing into a DataFrame***
 
-	1) downloading the datasets **(by Maryam)**
-	
-	2) extracting the data from the formatted file and reading it into a DataFrame **(by Maryam)**
-	
-	3) cleaning the data and removing the invalid data **(by Maryam)**
+1) downloading the datasets **(by Maryam)**
+
+2) extracting the data from the formatted file and reading it into a DataFrame **(by Maryam)**
+
+3) cleaning the data and removing the invalid data **(by Maryam)**
 
 The resulting DataFrame is shared with **Ghazaleh** at the current stage.
 
