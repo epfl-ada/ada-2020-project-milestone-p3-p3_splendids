@@ -25,3 +25,12 @@ As a result, we’re trying to answer the following questions:
 	* TARGET: node id of target, i.e., ratee
 	* RATING: the source's rating for the target, ranging from -10 to +10 in steps of 1
 	* TIME: the time of the rating, measured as seconds since Epoch
+	
+2)	"soc-sign-bitcoin-alpha " dataset from Stanford Large Network Dataset Collection. Same as the first dataset, this one lets us know who-trusts-whom to trade using Bitcoin on a platform called Bitcoin Alpha. Members of Bitcoin Alpha rate other members in a scale of -10 (total distrust) to +10 (total trust) in steps of 1. This dataset contains following columns:
+	* SOURCE: node id of source, i.e., rater
+	* TARGET: node id of target, i.e., ratee
+	* RATING: the source's rating for the target, ranging from -10 to +10 in steps of 1
+	* TIME: the time of the rating, measured as seconds since Epoch. 
+
+
+
