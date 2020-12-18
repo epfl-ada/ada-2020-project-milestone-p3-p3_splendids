@@ -101,3 +101,9 @@ The resulting graph and the code are shared with **Maryam** at the current stage
 2) preparing the short video **(by Maryam and Ghazaleh)**
 
 
+## Contributions of all group members
+
+Ghazaleh: crawling the data, preliminary data analysis, Problem formulation, Coding up the algorithm, Extracting final results;
+Maryam: crawling the data, preliminary data analysis, Writing up the report;
+
+
